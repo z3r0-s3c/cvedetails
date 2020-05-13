@@ -44,6 +44,9 @@ This is a simple program to check multiple CVE's all at once and output it in a 
 3. Links for Metasploit or any Exploit available.
 4. Add more sources to fetch CVE details, other <a href="https://www.cvedetails.com/" target="_blank">CVE Details</a>.
 
+# Bugs
+
+I believe there will be many, keep in mind work is in Progress, and you can also point out that to me directly.
 
 # Credits
 
