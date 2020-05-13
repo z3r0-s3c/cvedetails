@@ -27,7 +27,8 @@ This is a simple program to check multiple CVE's all at once and output it in a 
 4. Now all you have to do is enter the list of CVE's in cvedetails.csv and Save it.
     
     **Note:** Make sure, not to remove A1: CVE.
-5. Once that's done, simply double click on cvedetails.exe it will pop-up a blank console window, wait for that to disappear, Now you can check cvedetails.csv file which will have all the required data.
+5. Once that's done, simply double click on cvedetails.exe it will pop-up a blank console window, wait for that to disappear, Now you can check cvedetails.csv file which will have all the required data.\
+6. Now you can simply put a filter to sort the DOS or Any Type of vulnerability we are interested in.
 
 # IMPORTANT THINGS TO NOTE
 
