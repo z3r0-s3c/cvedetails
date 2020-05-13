@@ -25,6 +25,7 @@ This is a simple program to check multiple CVE's all at once and output it in a 
     * cvedetails.exe ( Which is the main executable ) 
     * cvedetails.csv ( A template in which you will enter list of CVE's )
 4. Now all you have to do is enter the list of CVE's in cvedetails.csv and Save it.
+    
     **Note:** Make sure, not to remove A1: CVE.
 5. Once that's done, simply double click on cvedetails.exe it will pop-up a blank console window, wait for that to disappear, Now you can check cvedetails.csv file which will have all the required data.
 
@@ -45,6 +46,6 @@ This is a simple program to check multiple CVE's all at once and output it in a 
 
 # Credits
 
-**<a href="https://www.cvedetails.com/" target="_blank">CVE Details</a>**
+> <a href="https://www.cvedetails.com/" target="_blank">CVE Details</a>
 
-**Meet (Formatting the Output)**
+> Meet (Formatting the Output)
