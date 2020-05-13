@@ -52,4 +52,4 @@ I believe there will be many, keep in mind work is in Progress, and you can also
 
 > <a href="https://www.cvedetails.com/" target="_blank">CVE Details</a>
 
-> Meet (Formatting the Output)
+> Meet
